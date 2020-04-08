@@ -9,7 +9,7 @@ DISCLAIMER: This is *only* for testing purposes and can only be used where stric
 
 For bug reports or enhancements, please open an [issue](https://github.com/Rikozi/reverse-shell/issues) here.
 
-## Install via requirements.txt
+## Install setup.py
 
 python setup.py 
 
