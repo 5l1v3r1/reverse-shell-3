@@ -11,7 +11,6 @@ For bug reports or enhancements, please open an [issue](https://github.com/Rikoz
 
 ## Install via requirements.txt
 
-pip3 install -r requirements.txt
 python setup.py 
 
 ## Install SET
